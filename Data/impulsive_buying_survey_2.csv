@@ -1,0 +1,31 @@
+column_a,impulsive_purchase_behaviourgrouping,shopper_comments,30_mins,60_mins,60_mins_2,column_g,column_h,impulsive_purchase_behavior_grouping,25_to_30,31_to_35,36_to_40
+,Complimentary products,Announcement in store,0.25,0.25,0.5,,,Complimentary products,0.4166666666666667,0.08333333333333333,0.5
+,,Buy one Get one,0.5,0.5,0,,,Discount and Offers,0,1,0
+,,Promotions,0.5,0.5,0,,,Product shelf design pattern,0.2857142857142857,0.14285714285714285,0.5714285714285714
+,Discount and Offers,End of season sale,0,0,1,,,Reference and Suggestions,0.5,0.5,0
+,Product shelf design pattern,Package of product,0.3333333333333333,0.3333333333333333,0.3333333333333333,,,Store convenience,0.4444444444444444,0.2222222222222222,0.3333333333333333
+,,Product visibility,0.5,0.25,0.25,,,Trail ability,0.42857142857142855,0.35714285714285715,0.21428571428571427
+,Reference and Suggestions,Co shoppers influence,0,0,1,,,Visual Management,0.4,0.5,0.1
+,,Crowded,0.3333333333333333,0,0.6666666666666666,,,Grand Total,0.40350877192982454,0.2982456140350877,0.2982456140350877
+,Store Convience,Amenities,0,0.5,0.5,,,,,,
+,,Easy access,0.25,0,0.75,,,,0.4166666666666667,0.08333333333333333,0.5
+,,Home delivery,1,0,0,,,,0,1,0
+,,Quick snack,0,0,1,,,,0.2857142857142857,0.14285714285714285,0.5714285714285714
+,,Willingness to help,1,0,0,,,,0.5,0.5,0
+,Trailability,Free product,0,0,1,,,,0.4444444444444444,0.2222222222222222,0.3333333333333333
+,,Social media reviews,0.25,0.25,0.5,,,,0.42857142857142855,0.35714285714285715,0.21428571428571427
+,,Store promotions ,1,0,0,,,,0.4,0.5,0.1
+,,Value for money,0.42857142857142855,0.5714285714285714,0,,,,0.40350877192982454,0.2982456140350877,0.2982456140350877
+,Visual Management,Design of the product,0.6666666666666666,0.3333333333333333,0,,,,,,
+,,Display of products at billing,0,0,1,,,,,,
+,,Display offer,0.6666666666666666,0,0.3333333333333333,,,Considered or thought of other alternatives before purchasing an item?,,,
+,,Don't want to come again,0,1,0,,,,Male,Female,
+,,Not an immediate requirement can store,0.5,0.5,0,,,Yes,0.7777777777777778,0.2222222222222222,
+,Grand Total,,0.40350877192982454,0.2807017543859649,0.3157894736842105,,,No,0.6,0.4,
+,,,,,,,,Sometimes,0.625,0.375,
+,,,,,,,,How often do you feel you make impulse purchases while shopping or after shopping?,,,
+,,,,,,,,,Male,Female,
+,,,,,,,,Yes,0.75,0.25,
+,,,,,,,,No,0.631578947368421,0.3684210526315789,
+,,,,,,,,Sometimes,0.6111111111111112,0.3888888888888889,
+,,,,,,,,Grand Total,0.6666666666666666,0.3333333333333333,

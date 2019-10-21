@@ -1,0 +1,58 @@
+shopper,store,age,sex,source_of_income,on_average_how_many_days_per_month_do_you_shop,considered_or_thought_of_other_alternatives_before_purchasing_an_item,how_often_do_you_feel_you_make_impulse_purchases_while_shopping_or_after_shopping,todays_shopping_duration,shopper_comments,impulsive_purchase_behaviourgrouping
+1,1,1,1,2,3,3,3,1,Crowded,Reference and Suggestions
+2,1,1,2,2,3,2,1,3,Package of product,Product shelf design pattern
+3,1,3,1,1,5,3,1,1,Product visibility,Product shelf design pattern
+4,1,1,1,1,2,1,1,1,Buy one Get one,Complimentary products
+5,1,2,2,1,5,1,2,2,Package of product,Product shelf design pattern
+6,1,2,2,1,6,1,3,3,Free product,Trailability
+7,1,3,1,2,4,2,2,1,Easy access,Store Convience
+8,1,3,2,2,5,3,1,2,Promotions,Complimentary products
+9,1,2,2,2,2,2,3,3,Quick snack,Store Convience
+10,1,3,2,2,6,2,3,3,Announcement in store,Complimentary products
+11,1,2,2,1,6,3,1,2,Buy one Get one,Complimentary products
+12,1,1,2,1,5,3,3,2,Don't want to come again,Visual Management
+13,1,1,1,1,6,3,2,1,Display offer,Visual Management
+14,1,1,2,1,3,2,3,3,Easy access,Store Convience
+15,1,2,2,1,4,2,1,3,Easy access,Store Convience
+16,1,1,1,2,6,3,3,3,Social media reviews,Trailability
+17,1,2,1,1,5,1,1,1,Value for money,Trailability
+18,1,1,1,2,1,1,1,1,Design of the product,Visual Management
+19,1,3,1,1,2,1,1,3,Product visibility,Product shelf design pattern
+20,1,1,1,1,4,1,2,1,Display offer,Visual Management
+21,1,3,1,1,1,1,1,3,Amenities,Store Convience
+22,1,3,2,1,4,2,3,2,Value for money,Trailability
+23,1,1,1,1,5,1,3,2,Value for money,Trailability
+24,1,3,1,2,6,2,1,1,Package of product,Product shelf design pattern
+25,1,2,2,1,2,1,1,1,Design of the product,Visual Management
+26,1,1,1,1,2,3,3,1,Announcement in store,Complimentary products
+27,1,3,2,1,5,2,3,1,Promotions,Complimentary products
+28,1,2,2,2,5,3,2,3,Crowded,Reference and Suggestions
+29,1,3,1,2,4,1,1,1,Not an immediate requirement can store,Visual Management
+30,1,1,2,2,3,1,3,2,Buy one Get one,Complimentary products
+31,2,1,2,1,3,2,2,2,Value for money,Trailability
+32,2,2,1,1,1,3,1,3,Display offer,Visual Management
+33,2,3,2,1,1,3,2,2,Amenities,Store Convience
+34,2,1,2,1,1,3,3,1,Value for money,Trailability
+35,2,3,1,1,4,2,2,1,Product visibility,Product shelf design pattern
+36,2,2,1,1,2,3,2,2,Design of the product,Visual Management
+37,2,3,1,2,1,3,2,2,Promotions,Complimentary products
+38,2,2,2,1,6,2,1,1,Store promotions ,Trailability
+39,2,1,1,2,2,1,2,2,Social media reviews,Trailability
+40,2,3,1,1,5,1,3,1,Social media reviews,Trailability
+41,2,2,1,1,4,2,1,1,Value for money,Trailability
+42,2,2,1,1,3,3,1,1,Store promotions ,Trailability
+43,2,2,2,2,1,2,2,3,Display of products at billing,Visual Management
+44,2,1,1,2,4,3,3,2,Value for money,Trailability
+45,2,1,2,1,6,1,3,2,Product visibility,Product shelf design pattern
+46,2,2,2,1,4,3,2,3,Crowded,Reference and Suggestions
+47,2,2,1,2,2,3,2,3,End of season sale,Discount and Offers
+48,2,1,2,1,5,1,2,1,Home delivery,Store Convience
+49,2,3,2,1,4,3,2,3,Social media reviews,Trailability
+50,2,1,2,1,6,3,1,3,Easy access,Store Convience
+51,2,1,2,1,6,1,2,3,Co shoppers influence,Reference and Suggestions
+52,2,3,2,1,2,3,1,3,Announcement in store,Complimentary products
+53,2,3,2,2,6,3,2,1,Buy one Get one,Complimentary products
+54,2,1,1,1,2,3,3,1,Promotions,Complimentary products
+55,2,2,1,1,6,2,2,2,Not an immediate requirement can store,Visual Management
+56,2,1,1,1,3,1,1,2,Announcement in store,Complimentary products
+57,2,1,2,2,4,3,3,1,Willingness to help,Store Convience

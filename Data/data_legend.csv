@@ -1,0 +1,25 @@
+column_a,column_b,column_c,column_d,column_e,column_f,column_g,column_h,column_i,column_j,column_k,column_l,column_m
+,Shopper,Continous number,,,,,,,2,Announcement in store,Complimentary products,1
+,Store,Dmart,Spar,0,0,0,0,,4,Buy one Get one,Complimentary products,1
+,Age,25 to 30,31 to 35,36 to 40,0,0,0,,18,Promotions,Complimentary products,1
+,Sex,Male,Female,0,0,0,0,,12,End of season sale,Discount and Offers,2
+,Source of Income,Salary,Business, Family & Other sources,0,0,0,,16,Package of product,Product shelf design pattern,3
+,"On average, How many days per month do you shop?",Once,Twice,Thrice,Four times,Five times,Six times,,17,Product visibility,Product shelf design pattern,3
+,Considered or thought of other alternatives before purchasing an item?,Yes,No,Sometimes,0,0,0,,5,Co shoppers influence,Reference and Suggestions,4
+,How often do you feel you make impulse purchases while shopping or after shopping?,Yes,No,Sometimes,0,0,0,,6,Crowded,Reference and Suggestions,4
+,Today’s shopping duration?,< 30 Mins,60 Mins,> 60 Mins,0,0,0,,1,Amenities,Store Convience,5
+,,,,,,,,,11,Easy access,Store Convience,5
+,,,,,,,,,14,Home delivery,Store Convience,5
+,,,,,,,,,19,Quick snack,Store Convience,5
+,,,,,,,,,21,Store brand,Store Convience,5
+,,,,,,,,,24,Willingness to help,Store Convience,5
+,,,,,,,,,13,Free product,Trailability,6
+,,,,,,,,,20,Social media reviews,Trailability,6
+,,,,,,,,,22,Store promotions ,Trailability,6
+,,,,,,,,,23,Value for money,Trailability,6
+,,,,,,,,,3,Banners,Visual Management,7
+,,,,,,,,,7,Design of the product,Visual Management,7
+,,,,,,,,,8,Display of products at billing,Visual Management,7
+,,,,,,,,,9,Display offer,Visual Management,7
+,,,,,,,,,10,Don't want to come again,Visual Management,7
+,,,,,,,,,15,Not an immediate requirement can store,Visual Management,7
