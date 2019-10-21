@@ -136,9 +136,23 @@ mod2
 
 That result looks a bit better, and will allow the age variable to work as a categorical regression variable. 
 
-Let's check the other 2 variables to verify.
+Now let's look at all 3 variables in a table.
 
 ```{r}
-mod2 <- loglm(~ sex + impulse_frequency,
+mod3 <- loglm(~ sex + impulse_frequency,
               xtabs(~ sex + impulse_frequency, df))
+mod4 <- loglm(~ source_of_income + impulse_frequency,
+              xtabs(~ source_of_income + impulse_frequency, df))
+
+##### For nice table ---------------
+prnt.tbl <- rbind(
+  summary(mod2)[['tests']],
+  summary(mod3)[['tests']],
+  summary(mod4)[['tests']]
+  )
+prnt.tbl <- prnt.tbl[c(1,3,5),]
+
+rownames(prnt.tbl) <- c('Age', 'Sex',  'Source of Income')
+
+kableExtra::kable(prnt.tbl) %>% kableExtra::kable_styling()
 ```
