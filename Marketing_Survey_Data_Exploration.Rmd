@@ -8,27 +8,32 @@ output: github_document
 ## Data
 
 ##### Description
+
 The data can be found on data.world [here](https://data.world/t-nmurthy/survey-data-on-impulsive-buying)
 
-This is described by the person posting the data as (after editing for better English):
+This is described by the person posting the data as (after editing for easier reading):
 
 "
 I’ve asked roughly 30 shoppers at each location the same set of questions and requested them to help me conduct a study on impulsive buying behavior as part of my degree program. Questions will be simple, not very personal, and hopefully reflective of impulse buying tendency, store environment, products, promotions which are influencing them, and basic demographics.
 
 The main questions [he] focused on:
+
 * Age
 * Source of income
 * Average days per month the consumer shops
 * Condideration of alternative items before their purchase
 * How often they feel like they make impulsive purchases during or after shopping
 * Duration of their shopping that day
+
 "
 
 ##### Goal
+
 To examine:
+
 * basic demographics
 * impulse buying tendency 
-* store environment 
+* store environments
 * products and promotions which are influencing them 
 
 ## Cleaning

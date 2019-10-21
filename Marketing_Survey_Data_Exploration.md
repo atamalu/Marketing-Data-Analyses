@@ -20,16 +20,24 @@ not very personal, and hopefully reflective of impulse buying tendency,
 store environment, products, promotions which are influencing them, and
 basic demographics.
 
-The main questions \[he\] focused on: \* Age \* Source of income \*
-Average days per month the consumer shops \* Condideration of
-alternative items before their purchase \* How often they feel like they
-make impulsive purchases during or after shopping \* Duration of their
-shopping that day "
+The main questions \[he\] focused on:
+
+  - Age
+  - Source of income
+  - Average days per month the consumer shops
+  - Condideration of alternative items before their purchase
+  - How often they feel like they make impulsive purchases during or
+    after shopping
+  - Duration of their shopping that day "
 
 ##### Goal
 
-To examine: \* basic demographics \* impulse buying tendency \* store
-environment \* products and promotions which are influencing them
+To examine:
+
+  - basic demographics
+  - impulse buying tendency
+  - store environment
+  - products and promotions which are influencing them
 
 ## Cleaning
 
