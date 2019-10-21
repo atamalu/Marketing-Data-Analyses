@@ -2,7 +2,7 @@
 title: "Marketing Survey Data Exploration"
 author: "Andrew Tamalunas"
 date: "10/18/2019"
-output: html_document
+output: github_document
 ---
 
 ## Data
@@ -154,5 +154,5 @@ prnt.tbl <- prnt.tbl[c(1,3,5),]
 
 rownames(prnt.tbl) <- c('Age', 'Sex',  'Source of Income')
 
-kableExtra::kable(prnt.tbl) %>% kableExtra::kable_styling()
+kableExtra::kable(prnt.tbl)
 ```
